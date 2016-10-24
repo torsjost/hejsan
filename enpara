@@ -1,0 +1,16 @@
+     energy parameters for window 1 spin 1 mix=  1.000000
+     atom     s        p        d        f
+ -->  1   6.00000  6.00000  5.00000  4.00000 change: FFFF skiplo:   4
+ --> lo   5.00000  5.00000
+ --> change   F        F
+ -->  2   6.00000  6.00000  5.00000  4.00000 change: FFFF skiplo:   4
+ --> lo   5.00000  5.00000
+ --> change   F        F
+ -->  3   4.00000  4.00000  3.00000  4.00000 change: FFFF skiplo:   3
+ --> lo   3.00000
+ --> change   F
+ -->  4   2.00000  2.00000  3.00000  4.00000 change: FFFF skiplo:   0
+ -->  5   2.00000  2.00000  3.00000  4.00000 change: FFFF skiplo:   0
+ -->  6   2.00000  2.00000  3.00000  4.00000 change: FFFF skiplo:   0
+ -->  7   2.00000  2.00000  3.00000  4.00000 change: FFFF skiplo:   0
+
